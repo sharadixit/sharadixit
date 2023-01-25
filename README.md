@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharad Dixit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/AlienatedSaneEastsiberianlaika.webp">
+<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ObviousFeminineHarvestmen.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novasharad&label=Profile%20views&color=0e75b6&style=flat" alt="novasharad" /> </p>
 
 - 🌱 I’m currently learning **Machine learning**
