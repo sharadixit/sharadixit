@@ -32,9 +32,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharadixit&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="sharadixit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharadixit&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="sharadixit" /></p>
+
+
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/sharadixit/sharadixt/blob/output/github-contribution-grid-snake.svg)
+![mishmanners snake gif](https://github.com/sharadixit/MishManners/blob/output/github-contribution-grid-snake.svg)
+
 
 
