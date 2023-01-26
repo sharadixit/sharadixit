@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Sharad Dixit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ObviousFeminineHarvestmen.webp">
@@ -24,9 +25,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hey&nbsp;Devs%2C%20Shan&nbsp;Here!%22);print(%22Hey&nbsp;Devs%2C%20Shan&nbsp;Here!%22);printf(%22Hey&nbsp;Devs%2C%20Shan&nbsp;Here!%22);fmt.Println(%22Hey&nbsp;Devs%2C%20Shan&nbsp;Here!%22);println!(%22Hey&nbsp;Devs%2C%20Shan&nbsp;Here!%22);cout%20%3C%3C%20%22Hey&nbsp;Devs%2C%20Shan&nbsp;Here!%22&center=true&size=18&width=550">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Voodoo&nbsp;Programmer!%22);print(%22Voodoo&nbsp;Programmer!%22);printf(%22Voodoo&nbsp;Programmer!%22);fmt.Println(%22Voodoo&nbsp;Programmer!%22);println!(%22Voodoo&nbsp:Programmer!%22);cout%20%3C%3C%20%22Voodoo&nbsp:Programmer!%22&center=true&size=18&width=550">
   </a>
 </h1>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharadixit&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="sharadixit" /></p>
