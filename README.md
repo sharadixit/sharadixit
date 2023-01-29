@@ -36,5 +36,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharadixit&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="sharadixit" /></p>
 
-
+# Productivity Stats📈:
+ <table>
+   <tr>
+     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharadixit&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    </tr> 
+    <tr>
 
